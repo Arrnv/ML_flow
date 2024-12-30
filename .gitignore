@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+mlruns
+mlruns/
+mlartifacts
+mlartifacts/
 # Distribution / packaging
 .Python
 build/
